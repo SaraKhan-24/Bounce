@@ -1,0 +1,30 @@
+ /* Style for square tiles */
+ .tile {
+    width: 50px;
+    height: 50px;
+    background-color: #ccc;
+    border: 1px solid #000;
+    float: left;
+}
+
+/* Style for triangle tiles */
+.triangle {
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 50px solid #fff700;
+    float: left;
+}
+
+/* Clearfix to prevent floating elements from overlapping */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.container{
+    width: 300px; /* Adjust this to fit your desired width */
+            height: 300px; /* Adjust this to fit your desired height */
+            border: 1px solid black;
+}
