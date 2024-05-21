@@ -36,8 +36,7 @@ The main logic of the game is implemented in the `script.js` file. It handles th
 
 ## Credits
 
-This project is created by [Your Name].
+This project is created by Sara Khan.
 
 ---
 
-Feel free to add more sections or details as needed.
