@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bounce Game Replica
 
 This project is a replica of the classic Bounce game originally found on Nokia phones. It's implemented using HTML5 canvas and JavaScript for the frontend.
@@ -40,3 +41,6 @@ This project is created by Sara Khan.
 
 ---
 
+=======
+# Bounce
+>>>>>>> parent of 2dffb93 (Update README.md)
